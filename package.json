@@ -1,0 +1,15 @@
+{
+  "name": "create-simple-counter",
+  "version": "1.0.0",
+  "description": "Create a simple counter app with increment and decrement buttons. Display the count in the center. Use modern styling with good spacing.",
+  "scripts": {
+    "start": "serve .",
+    "dev": "serve ."
+  },
+  "keywords": [
+    "cpos",
+    "generated"
+  ],
+  "author": "CPOS",
+  "license": "MIT"
+}
